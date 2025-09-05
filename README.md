@@ -4,4 +4,4 @@ Movie Search App
 
 A React-based web application to search for movies and manage your favorite list.  
 You can search movies, view details, and save/remove them to/from your favorites.  
-Favorites are stored in **localStorage**, so they persist across sessions.
+
