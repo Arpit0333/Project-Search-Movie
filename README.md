@@ -1,12 +1,7 @@
- # React + Vite
+https://github.com/user-attachments/assets/b8eb9808-a30e-4f16-89cc-7dc1fc0a29d9
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movie Search App
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A React-based web application to search for movies and manage your favorite list.  
+You can search movies, view details, and save/remove them to/from your favorites.  
+Favorites are stored in **localStorage**, so they persist across sessions.
